@@ -8,20 +8,44 @@
 
 /* Begin PBXBuildFile section */
 		296FD4161F01CBE80031AEFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4151F01CBE80031AEFB /* AppDelegate.swift */; };
-		296FD4181F01CBE80031AEFB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4171F01CBE80031AEFB /* ViewController.swift */; };
 		296FD41B1F01CBE80031AEFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 296FD4191F01CBE80031AEFB /* Main.storyboard */; };
 		296FD41D1F01CBE80031AEFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 296FD41C1F01CBE80031AEFB /* Assets.xcassets */; };
 		296FD4201F01CBE80031AEFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 296FD41E1F01CBE80031AEFB /* LaunchScreen.storyboard */; };
+		296FD4341F01CC380031AEFB /* Skill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4281F01CC380031AEFB /* Skill.swift */; };
+		296FD4351F01CC380031AEFB /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4291F01CC380031AEFB /* Product.swift */; };
+		296FD4361F01CC380031AEFB /* Institution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD42A1F01CC380031AEFB /* Institution.swift */; };
+		296FD4371F01CC380031AEFB /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD42B1F01CC380031AEFB /* Company.swift */; };
+		296FD4381F01CC380031AEFB /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD42C1F01CC380031AEFB /* Person.swift */; };
+		296FD4391F01CC380031AEFB /* JobTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD42D1F01CC380031AEFB /* JobTitle.swift */; };
+		296FD43A1F01CC380031AEFB /* Senority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD42E1F01CC380031AEFB /* Senority.swift */; };
+		296FD43B1F01CC380031AEFB /* Degree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD42F1F01CC380031AEFB /* Degree.swift */; };
+		296FD43C1F01CC380031AEFB /* EmploymentType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4301F01CC380031AEFB /* EmploymentType.swift */; };
+		296FD43D1F01CC380031AEFB /* Publication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4311F01CC380031AEFB /* Publication.swift */; };
+		296FD43E1F01CC380031AEFB /* Award.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4321F01CC380031AEFB /* Award.swift */; };
+		296FD43F1F01CC380031AEFB /* SocialSite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4331F01CC380031AEFB /* SocialSite.swift */; };
+		296FD4451F01CCB70031AEFB /* SkillSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296FD4441F01CCB70031AEFB /* SkillSet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		296FD4121F01CBE80031AEFB /* YellowBricks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YellowBricks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		296FD4151F01CBE80031AEFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		296FD4171F01CBE80031AEFB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		296FD41A1F01CBE80031AEFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		296FD41C1F01CBE80031AEFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		296FD41F1F01CBE80031AEFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		296FD4211F01CBE80031AEFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		296FD4281F01CC380031AEFB /* Skill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Skill.swift; sourceTree = "<group>"; };
+		296FD4291F01CC380031AEFB /* Product.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		296FD42A1F01CC380031AEFB /* Institution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Institution.swift; sourceTree = "<group>"; };
+		296FD42B1F01CC380031AEFB /* Company.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Company.swift; sourceTree = "<group>"; };
+		296FD42C1F01CC380031AEFB /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		296FD42D1F01CC380031AEFB /* JobTitle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JobTitle.swift; sourceTree = "<group>"; };
+		296FD42E1F01CC380031AEFB /* Senority.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Senority.swift; sourceTree = "<group>"; };
+		296FD42F1F01CC380031AEFB /* Degree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Degree.swift; sourceTree = "<group>"; };
+		296FD4301F01CC380031AEFB /* EmploymentType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmploymentType.swift; sourceTree = "<group>"; };
+		296FD4311F01CC380031AEFB /* Publication.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Publication.swift; sourceTree = "<group>"; };
+		296FD4321F01CC380031AEFB /* Award.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Award.swift; sourceTree = "<group>"; };
+		296FD4331F01CC380031AEFB /* SocialSite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SocialSite.swift; sourceTree = "<group>"; };
+		296FD4441F01CCB70031AEFB /* SkillSet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SkillSet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +78,66 @@
 		296FD4141F01CBE80031AEFB /* YellowBricks */ = {
 			isa = PBXGroup;
 			children = (
-				296FD4151F01CBE80031AEFB /* AppDelegate.swift */,
-				296FD4171F01CBE80031AEFB /* ViewController.swift */,
+				296FD4271F01CC2A0031AEFB /* Model */,
+				296FD4411F01CC4D0031AEFB /* View */,
+				296FD4401F01CC4B0031AEFB /* Controller */,
+				296FD4421F01CC500031AEFB /* Extensions */,
+				296FD4431F01CC520031AEFB /* Additional Files */,
+			);
+			path = YellowBricks;
+			sourceTree = "<group>";
+		};
+		296FD4271F01CC2A0031AEFB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				296FD4281F01CC380031AEFB /* Skill.swift */,
+				296FD4441F01CCB70031AEFB /* SkillSet.swift */,
+				296FD4291F01CC380031AEFB /* Product.swift */,
+				296FD42A1F01CC380031AEFB /* Institution.swift */,
+				296FD42B1F01CC380031AEFB /* Company.swift */,
+				296FD42C1F01CC380031AEFB /* Person.swift */,
+				296FD42D1F01CC380031AEFB /* JobTitle.swift */,
+				296FD42E1F01CC380031AEFB /* Senority.swift */,
+				296FD42F1F01CC380031AEFB /* Degree.swift */,
+				296FD4301F01CC380031AEFB /* EmploymentType.swift */,
+				296FD4311F01CC380031AEFB /* Publication.swift */,
+				296FD4321F01CC380031AEFB /* Award.swift */,
+				296FD4331F01CC380031AEFB /* SocialSite.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		296FD4401F01CC4B0031AEFB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		296FD4411F01CC4D0031AEFB /* View */ = {
+			isa = PBXGroup;
+			children = (
 				296FD4191F01CBE80031AEFB /* Main.storyboard */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		296FD4421F01CC500031AEFB /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Extensions;
+			sourceTree = "<group>";
+		};
+		296FD4431F01CC520031AEFB /* Additional Files */ = {
+			isa = PBXGroup;
+			children = (
+				296FD4151F01CBE80031AEFB /* AppDelegate.swift */,
 				296FD41C1F01CBE80031AEFB /* Assets.xcassets */,
 				296FD41E1F01CBE80031AEFB /* LaunchScreen.storyboard */,
 				296FD4211F01CBE80031AEFB /* Info.plist */,
 			);
-			path = YellowBricks;
+			name = "Additional Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +213,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				296FD4181F01CBE80031AEFB /* ViewController.swift in Sources */,
+				296FD4451F01CCB70031AEFB /* SkillSet.swift in Sources */,
+				296FD4381F01CC380031AEFB /* Person.swift in Sources */,
+				296FD43F1F01CC380031AEFB /* SocialSite.swift in Sources */,
+				296FD43E1F01CC380031AEFB /* Award.swift in Sources */,
+				296FD4391F01CC380031AEFB /* JobTitle.swift in Sources */,
 				296FD4161F01CBE80031AEFB /* AppDelegate.swift in Sources */,
+				296FD43D1F01CC380031AEFB /* Publication.swift in Sources */,
+				296FD4341F01CC380031AEFB /* Skill.swift in Sources */,
+				296FD43B1F01CC380031AEFB /* Degree.swift in Sources */,
+				296FD43C1F01CC380031AEFB /* EmploymentType.swift in Sources */,
+				296FD4361F01CC380031AEFB /* Institution.swift in Sources */,
+				296FD4371F01CC380031AEFB /* Company.swift in Sources */,
+				296FD43A1F01CC380031AEFB /* Senority.swift in Sources */,
+				296FD4351F01CC380031AEFB /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +351,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = K8YZSQZRNW;
 				INFOPLIST_FILE = YellowBricks/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.matthewhsingleton.YellowBricks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +365,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = K8YZSQZRNW;
 				INFOPLIST_FILE = YellowBricks/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.matthewhsingleton.YellowBricks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
